@@ -1,7 +1,7 @@
 ## Olá, Sou o Gabriel Lacerda, muito prazer!
 
 - Sou estudante de Análise e Desenvolvimento de Sistemas
-- Estudando Reactjs/Typescript/Nextjs
+-Desenvolvo aplicativos e aplicações pessoais com Reactjs, React Native e Nodejs
 
 
 
